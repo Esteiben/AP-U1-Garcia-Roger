@@ -1,0 +1,78 @@
+1;3;ENVIO;req=d0e5a6a56a03 tipo=LATIDO puerta=3
+109;3;RECEPCION;req=d0e5a6a56a03 resultado=PERMITIDA
+110;3;ENVIO;req=c43b82a3404c tipo=LATIDO puerta=3
+115;3;RECEPCION;req=c43b82a3404c resultado=PERMITIDA
+116;3;ENVIO;req=bb72526952e4 tipo=LATIDO puerta=3
+121;3;RECEPCION;req=bb72526952e4 resultado=PERMITIDA
+122;3;ENVIO;req=d025c0a68384 tipo=LATIDO puerta=3
+127;3;RECEPCION;req=d025c0a68384 resultado=PERMITIDA
+128;3;ENVIO;req=f0e28b69491a tipo=LATIDO puerta=3
+133;3;RECEPCION;req=f0e28b69491a resultado=PERMITIDA
+134;3;ENVIO;req=6af102a52558 tipo=LATIDO puerta=3
+139;3;RECEPCION;req=6af102a52558 resultado=PERMITIDA
+140;3;ENVIO;req=b20e28723027 tipo=LATIDO puerta=3
+145;3;RECEPCION;req=b20e28723027 resultado=PERMITIDA
+146;3;ENVIO;req=b9f5363ae8af tipo=LATIDO puerta=3
+151;3;RECEPCION;req=b9f5363ae8af resultado=PERMITIDA
+152;3;ENVIO;req=8f9bedf0d225 tipo=LATIDO puerta=3
+157;3;RECEPCION;req=8f9bedf0d225 resultado=PERMITIDA
+158;3;ENVIO;req=6e943d281569 tipo=LATIDO puerta=3
+163;3;RECEPCION;req=6e943d281569 resultado=PERMITIDA
+164;3;ENVIO;req=8ba4e3f0311c tipo=LATIDO puerta=3
+169;3;RECEPCION;req=8ba4e3f0311c resultado=PERMITIDA
+170;3;ENVIO;req=34f53b256095 tipo=LATIDO puerta=3
+175;3;RECEPCION;req=34f53b256095 resultado=PERMITIDA
+176;3;ENVIO;req=b45a37bd0536 tipo=LATIDO puerta=3
+181;3;RECEPCION;req=b45a37bd0536 resultado=PERMITIDA
+182;3;ENVIO;req=4cf16f1674ab tipo=LATIDO puerta=3
+187;3;RECEPCION;req=4cf16f1674ab resultado=PERMITIDA
+188;3;ENVIO;req=8d11190b54a4 tipo=LATIDO puerta=3
+193;3;RECEPCION;req=8d11190b54a4 resultado=PERMITIDA
+194;3;ENVIO;req=f479320b10ca tipo=LATIDO puerta=3
+199;3;RECEPCION;req=f479320b10ca resultado=PERMITIDA
+200;3;ENVIO;req=d7575463b060 tipo=LATIDO puerta=3
+205;3;RECEPCION;req=d7575463b060 resultado=PERMITIDA
+206;3;ENVIO;req=efcfe7fe3eb9 tipo=LATIDO puerta=3
+211;3;RECEPCION;req=efcfe7fe3eb9 resultado=PERMITIDA
+212;3;ENVIO;req=d0915dca4839 tipo=LATIDO puerta=3
+217;3;RECEPCION;req=d0915dca4839 resultado=PERMITIDA
+218;3;ENVIO;req=dc50a59d0dd9 tipo=LATIDO puerta=3
+223;3;RECEPCION;req=dc50a59d0dd9 resultado=PERMITIDA
+224;3;ENVIO;req=87ca77c015e2 tipo=LATIDO puerta=3
+229;3;RECEPCION;req=87ca77c015e2 resultado=PERMITIDA
+230;3;ENVIO;req=14e7d3f313a8 tipo=LATIDO puerta=3
+235;3;RECEPCION;req=14e7d3f313a8 resultado=PERMITIDA
+236;3;ENVIO;req=9f8aff782b97 tipo=LATIDO puerta=3
+241;3;RECEPCION;req=9f8aff782b97 resultado=PERMITIDA
+242;3;ENVIO;req=d9cfb2c9eaab tipo=LATIDO puerta=3
+247;3;RECEPCION;req=d9cfb2c9eaab resultado=PERMITIDA
+248;3;ENVIO;req=e3de7cd078d6 tipo=LATIDO puerta=3
+253;3;RECEPCION;req=e3de7cd078d6 resultado=PERMITIDA
+254;3;ENVIO;req=317ec60259c3 tipo=LATIDO puerta=3
+259;3;RECEPCION;req=317ec60259c3 resultado=PERMITIDA
+260;3;ENVIO;req=0e4e2536c898 tipo=LATIDO puerta=3
+265;3;RECEPCION;req=0e4e2536c898 resultado=PERMITIDA
+266;3;ENVIO;req=96e7377a4752 tipo=LATIDO puerta=3
+271;3;RECEPCION;req=96e7377a4752 resultado=PERMITIDA
+272;3;ENVIO;req=819b58bfa44a tipo=LATIDO puerta=3
+277;3;RECEPCION;req=819b58bfa44a resultado=PERMITIDA
+278;3;ENVIO;req=4847a1c169d4 tipo=LATIDO puerta=3
+283;3;RECEPCION;req=4847a1c169d4 resultado=PERMITIDA
+284;3;ENVIO;req=5629b9a8afd2 tipo=LATIDO puerta=3
+289;3;RECEPCION;req=5629b9a8afd2 resultado=PERMITIDA
+290;3;ENVIO;req=01cb73b7e889 tipo=LATIDO puerta=3
+295;3;RECEPCION;req=01cb73b7e889 resultado=PERMITIDA
+296;3;ENVIO;req=367f5267b58b tipo=LATIDO puerta=3
+301;3;RECEPCION;req=367f5267b58b resultado=PERMITIDA
+302;3;ENVIO;req=be2de30cd2c1 tipo=LATIDO puerta=3
+307;3;RECEPCION;req=be2de30cd2c1 resultado=PERMITIDA
+308;3;ENVIO;req=606704d9a55d tipo=LATIDO puerta=3
+313;3;RECEPCION;req=606704d9a55d resultado=PERMITIDA
+314;3;ENVIO;req=b150268d44b6 tipo=LATIDO puerta=3
+319;3;RECEPCION;req=b150268d44b6 resultado=PERMITIDA
+320;3;ENVIO;req=38afe6e92254 tipo=LATIDO puerta=3
+321;3;ERROR_RED;req=38afe6e92254 detalle=[Errno 111] Connection refused
+322;3;ENVIO;req=0dc9d893c878 tipo=LATIDO puerta=3
+323;3;ERROR_RED;req=0dc9d893c878 detalle=[Errno 111] Connection refused
+324;3;ENVIO;req=c852eadf206a tipo=LATIDO puerta=3
+325;3;ERROR_RED;req=c852eadf206a detalle=[Errno 111] Connection refused

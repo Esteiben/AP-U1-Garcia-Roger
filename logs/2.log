@@ -1,0 +1,90 @@
+1;2;ENVIO;req=e3ba435767d7 tipo=LATIDO puerta=2
+80;2;RECEPCION;req=e3ba435767d7 resultado=PERMITIDA
+81;2;ENVIO;req=05ecce1dc3b6 tipo=LATIDO puerta=2
+84;2;RECEPCION;req=05ecce1dc3b6 resultado=PERMITIDA
+85;2;ENVIO;req=9668e5aefd47 tipo=LATIDO puerta=2
+88;2;RECEPCION;req=9668e5aefd47 resultado=PERMITIDA
+89;2;ENVIO;req=8615215db5dc tipo=LATIDO puerta=2
+92;2;RECEPCION;req=8615215db5dc resultado=PERMITIDA
+93;2;ENVIO;req=5ee1dfcff375 tipo=LATIDO puerta=2
+96;2;RECEPCION;req=5ee1dfcff375 resultado=PERMITIDA
+97;2;ENVIO;req=96cd722b0ffc tipo=LATIDO puerta=2
+100;2;RECEPCION;req=96cd722b0ffc resultado=PERMITIDA
+101;2;ENVIO;req=55dcd4db58df tipo=LATIDO puerta=2
+104;2;RECEPCION;req=55dcd4db58df resultado=PERMITIDA
+105;2;ENVIO;req=eef4c943e409 tipo=LATIDO puerta=2
+111;2;RECEPCION;req=eef4c943e409 resultado=PERMITIDA
+112;2;ENVIO;req=f194f65b8882 tipo=LATIDO puerta=2
+117;2;RECEPCION;req=f194f65b8882 resultado=PERMITIDA
+118;2;ENVIO;req=edabd012241d tipo=LATIDO puerta=2
+123;2;RECEPCION;req=edabd012241d resultado=PERMITIDA
+124;2;ENVIO;req=e0d988043b67 tipo=LATIDO puerta=2
+129;2;RECEPCION;req=e0d988043b67 resultado=PERMITIDA
+130;2;ENVIO;req=f82d12be1954 tipo=LATIDO puerta=2
+135;2;RECEPCION;req=f82d12be1954 resultado=PERMITIDA
+136;2;ENVIO;req=78b81b999fa6 tipo=LATIDO puerta=2
+141;2;RECEPCION;req=78b81b999fa6 resultado=PERMITIDA
+142;2;ENVIO;req=aec7e9bc2c43 tipo=LATIDO puerta=2
+147;2;RECEPCION;req=aec7e9bc2c43 resultado=PERMITIDA
+148;2;ENVIO;req=1f105f848d67 tipo=LATIDO puerta=2
+153;2;RECEPCION;req=1f105f848d67 resultado=PERMITIDA
+154;2;ENVIO;req=e172f2b79e05 tipo=LATIDO puerta=2
+159;2;RECEPCION;req=e172f2b79e05 resultado=PERMITIDA
+160;2;ENVIO;req=6abbce55d7dc tipo=LATIDO puerta=2
+165;2;RECEPCION;req=6abbce55d7dc resultado=PERMITIDA
+166;2;ENVIO;req=2264171748a5 tipo=LATIDO puerta=2
+171;2;RECEPCION;req=2264171748a5 resultado=PERMITIDA
+172;2;ENVIO;req=95f80e1ab38e tipo=LATIDO puerta=2
+177;2;RECEPCION;req=95f80e1ab38e resultado=PERMITIDA
+178;2;ENVIO;req=ae31568f15d6 tipo=LATIDO puerta=2
+183;2;RECEPCION;req=ae31568f15d6 resultado=PERMITIDA
+184;2;ENVIO;req=5cd25bee66bc tipo=LATIDO puerta=2
+189;2;RECEPCION;req=5cd25bee66bc resultado=PERMITIDA
+190;2;ENVIO;req=86192fa7eb6a tipo=LATIDO puerta=2
+195;2;RECEPCION;req=86192fa7eb6a resultado=PERMITIDA
+196;2;ENVIO;req=6e3ce74ba95d tipo=LATIDO puerta=2
+201;2;RECEPCION;req=6e3ce74ba95d resultado=PERMITIDA
+202;2;ENVIO;req=df633038c630 tipo=LATIDO puerta=2
+207;2;RECEPCION;req=df633038c630 resultado=PERMITIDA
+208;2;ENVIO;req=3a9217766fe9 tipo=LATIDO puerta=2
+213;2;RECEPCION;req=3a9217766fe9 resultado=PERMITIDA
+214;2;ENVIO;req=df9985734a82 tipo=LATIDO puerta=2
+219;2;RECEPCION;req=df9985734a82 resultado=PERMITIDA
+220;2;ENVIO;req=11b18c9c2d97 tipo=LATIDO puerta=2
+225;2;RECEPCION;req=11b18c9c2d97 resultado=PERMITIDA
+226;2;ENVIO;req=0045dfe59411 tipo=LATIDO puerta=2
+231;2;RECEPCION;req=0045dfe59411 resultado=PERMITIDA
+232;2;ENVIO;req=d040894cf39c tipo=LATIDO puerta=2
+237;2;RECEPCION;req=d040894cf39c resultado=PERMITIDA
+238;2;ENVIO;req=80d0cb069470 tipo=LATIDO puerta=2
+243;2;RECEPCION;req=80d0cb069470 resultado=PERMITIDA
+244;2;ENVIO;req=bf23a1fd3cbd tipo=LATIDO puerta=2
+249;2;RECEPCION;req=bf23a1fd3cbd resultado=PERMITIDA
+250;2;ENVIO;req=ae30ed4cf3dc tipo=LATIDO puerta=2
+255;2;RECEPCION;req=ae30ed4cf3dc resultado=PERMITIDA
+256;2;ENVIO;req=5588f6df91f0 tipo=LATIDO puerta=2
+261;2;RECEPCION;req=5588f6df91f0 resultado=PERMITIDA
+262;2;ENVIO;req=fe76964ba112 tipo=LATIDO puerta=2
+267;2;RECEPCION;req=fe76964ba112 resultado=PERMITIDA
+268;2;ENVIO;req=1e22065addee tipo=LATIDO puerta=2
+273;2;RECEPCION;req=1e22065addee resultado=PERMITIDA
+274;2;ENVIO;req=812b6eb54dee tipo=LATIDO puerta=2
+279;2;RECEPCION;req=812b6eb54dee resultado=PERMITIDA
+280;2;ENVIO;req=3d7bfcdb9f8c tipo=LATIDO puerta=2
+285;2;RECEPCION;req=3d7bfcdb9f8c resultado=PERMITIDA
+286;2;ENVIO;req=be75fca8db52 tipo=LATIDO puerta=2
+291;2;RECEPCION;req=be75fca8db52 resultado=PERMITIDA
+292;2;ENVIO;req=f2b3cd509828 tipo=LATIDO puerta=2
+297;2;RECEPCION;req=f2b3cd509828 resultado=PERMITIDA
+298;2;ENVIO;req=2ba8583c20be tipo=LATIDO puerta=2
+303;2;RECEPCION;req=2ba8583c20be resultado=PERMITIDA
+304;2;ENVIO;req=9c7e01e71677 tipo=LATIDO puerta=2
+309;2;RECEPCION;req=9c7e01e71677 resultado=PERMITIDA
+310;2;ENVIO;req=e501cc1b4513 tipo=LATIDO puerta=2
+315;2;RECEPCION;req=e501cc1b4513 resultado=PERMITIDA
+316;2;ENVIO;req=e93467011015 tipo=LATIDO puerta=2
+321;2;RECEPCION;req=e93467011015 resultado=PERMITIDA
+322;2;ENVIO;req=4d5ccffdc8ae tipo=LATIDO puerta=2
+323;2;ERROR_RED;req=4d5ccffdc8ae detalle=[Errno 111] Connection refused
+324;2;ENVIO;req=8f9ac25813b3 tipo=LATIDO puerta=2
+325;2;ERROR_RED;req=8f9ac25813b3 detalle=[Errno 111] Connection refused

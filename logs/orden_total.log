@@ -1,0 +1,83 @@
+1;1;ENVIO;req=c34493d327b7 tipo=LATIDO puerta=1
+2;0;RECEPCION;req=carga-6c2e50aa6b75 tipo=ENTRAR puerta=1
+2;1;ERROR_RED;req=c34493d327b7 detalle=[Errno 111] Connection refused
+3;0;ENVIO;req=carga-6c2e50aa6b75 resultado=PERMITIDA motivo=entrada aceptada
+3;1;ENVIO;req=7fabc92a5efa tipo=LATIDO puerta=1
+4;0;RECEPCION;req=carga-1e2f21115aa5 tipo=ENTRAR puerta=3
+4;1;ERROR_RED;req=7fabc92a5efa detalle=[Errno 111] Connection refused
+5;0;ENVIO;req=carga-1e2f21115aa5 resultado=PERMITIDA motivo=entrada aceptada
+5;1;ENVIO;req=f21627a0c91e tipo=LATIDO puerta=1
+6;0;RECEPCION;req=carga-6d982e22e57f tipo=ENTRAR puerta=3
+6;1;ERROR_RED;req=f21627a0c91e detalle=[Errno 111] Connection refused
+7;0;RECEPCION;req=carga-80b8e52772a3 tipo=ENTRAR puerta=1
+7;1;ENVIO;req=09b647e942af tipo=ENTRAR puerta=1
+8;0;RECEPCION;req=carga-d9f7d3b10797 tipo=ENTRAR puerta=3
+8;1;ERROR_RED;req=09b647e942af detalle=[Errno 111] Connection refused
+9;0;RECEPCION;req=carga-c5d8a635a1a1 tipo=ENTRAR puerta=2
+9;1;ENVIO;req=40071632350a tipo=LATIDO puerta=1
+10;0;ENVIO;req=carga-6d982e22e57f resultado=PERMITIDA motivo=entrada aceptada
+10;1;ERROR_RED;req=40071632350a detalle=[Errno 111] Connection refused
+11;0;RECEPCION;req=carga-67233884df92 tipo=ENTRAR puerta=2
+11;1;ENVIO;req=53b0b7ac7b06 tipo=LATIDO puerta=1
+12;0;RECEPCION;req=carga-22d090dc3adf tipo=ENTRAR puerta=1
+12;1;ERROR_RED;req=53b0b7ac7b06 detalle=[Errno 111] Connection refused
+13;0;RECEPCION;req=carga-6197a5c5b665 tipo=ENTRAR puerta=3
+13;1;ENVIO;req=75c8ba59c0a2 tipo=SALIR puerta=1
+14;0;ENVIO;req=carga-80b8e52772a3 resultado=PERMITIDA motivo=entrada aceptada
+14;1;ERROR_RED;req=75c8ba59c0a2 detalle=[Errno 111] Connection refused
+15;0;RECEPCION;req=carga-d4c527e9fe94 tipo=ENTRAR puerta=3
+15;1;ENVIO;req=0c77a4d804a5 tipo=LATIDO puerta=1
+16;0;ENVIO;req=carga-d9f7d3b10797 resultado=PERMITIDA motivo=entrada aceptada
+16;1;ERROR_RED;req=0c77a4d804a5 detalle=[Errno 111] Connection refused
+17;0;RECEPCION;req=carga-d0d91a161307 tipo=ENTRAR puerta=2
+17;1;ENVIO;req=9d5d058680cb tipo=LATIDO puerta=1
+18;0;ENVIO;req=carga-c5d8a635a1a1 resultado=PERMITIDA motivo=entrada aceptada
+18;1;ERROR_RED;req=9d5d058680cb detalle=[Errno 111] Connection refused
+19;0;RECEPCION;req=carga-67ef9fa1f26a tipo=ENTRAR puerta=2
+20;0;RECEPCION;req=carga-1dfb57b9d15c tipo=ENTRAR puerta=2
+21;0;ENVIO;req=carga-67233884df92 resultado=PERMITIDA motivo=entrada aceptada
+22;0;RECEPCION;req=carga-34a0bbe9aaa3 tipo=ENTRAR puerta=1
+23;0;ENVIO;req=carga-22d090dc3adf resultado=PERMITIDA motivo=entrada aceptada
+24;0;RECEPCION;req=carga-1262e518b53f tipo=ENTRAR puerta=3
+25;0;RECEPCION;req=carga-af9d120ff8b8 tipo=ENTRAR puerta=1
+26;0;ENVIO;req=carga-6197a5c5b665 resultado=PERMITIDA motivo=entrada aceptada
+27;0;RECEPCION;req=carga-057e7c60e12f tipo=ENTRAR puerta=3
+28;0;RECEPCION;req=carga-ee2219a626ba tipo=ENTRAR puerta=1
+29;0;ENVIO;req=carga-d4c527e9fe94 resultado=PERMITIDA motivo=entrada aceptada
+30;0;RECEPCION;req=carga-068fccc28f52 tipo=ENTRAR puerta=1
+31;0;RECEPCION;req=carga-dc716da1860e tipo=ENTRAR puerta=2
+32;0;RECEPCION;req=carga-33aa37e63703 tipo=ENTRAR puerta=1
+33;0;ENVIO;req=carga-d0d91a161307 resultado=RECHAZADA motivo=aforo completo
+34;0;RECEPCION;req=carga-2342bf3db0b3 tipo=ENTRAR puerta=1
+35;0;RECEPCION;req=carga-da1237322184 tipo=ENTRAR puerta=1
+36;0;RECEPCION;req=carga-756f23ae3f5b tipo=ENTRAR puerta=2
+37;0;ENVIO;req=carga-67ef9fa1f26a resultado=RECHAZADA motivo=aforo completo
+38;0;RECEPCION;req=carga-d4067f5f9b00 tipo=ENTRAR puerta=2
+39;0;RECEPCION;req=carga-b19fd4c73669 tipo=ENTRAR puerta=3
+40;0;ENVIO;req=carga-1dfb57b9d15c resultado=RECHAZADA motivo=aforo completo
+41;0;RECEPCION;req=carga-62e12b2e4d22 tipo=ENTRAR puerta=2
+42;0;RECEPCION;req=carga-2842bc4a59e3 tipo=ENTRAR puerta=2
+43;0;ENVIO;req=carga-34a0bbe9aaa3 resultado=RECHAZADA motivo=aforo completo
+44;0;RECEPCION;req=carga-a7febacbbe1a tipo=ENTRAR puerta=3
+45;0;RECEPCION;req=carga-bb6803d9688a tipo=ENTRAR puerta=3
+46;0;ENVIO;req=carga-1262e518b53f resultado=RECHAZADA motivo=aforo completo
+47;0;ENVIO;req=carga-af9d120ff8b8 resultado=RECHAZADA motivo=aforo completo
+48;0;ENVIO;req=carga-057e7c60e12f resultado=RECHAZADA motivo=aforo completo
+49;0;ENVIO;req=carga-ee2219a626ba resultado=RECHAZADA motivo=aforo completo
+50;0;ENVIO;req=carga-068fccc28f52 resultado=RECHAZADA motivo=aforo completo
+51;0;ENVIO;req=carga-dc716da1860e resultado=RECHAZADA motivo=aforo completo
+52;0;ENVIO;req=carga-33aa37e63703 resultado=RECHAZADA motivo=aforo completo
+53;0;ENVIO;req=carga-2342bf3db0b3 resultado=RECHAZADA motivo=aforo completo
+54;0;ENVIO;req=carga-da1237322184 resultado=RECHAZADA motivo=aforo completo
+55;0;ENVIO;req=carga-756f23ae3f5b resultado=RECHAZADA motivo=aforo completo
+56;0;ENVIO;req=carga-d4067f5f9b00 resultado=RECHAZADA motivo=aforo completo
+57;0;ENVIO;req=carga-b19fd4c73669 resultado=RECHAZADA motivo=aforo completo
+58;0;ENVIO;req=carga-62e12b2e4d22 resultado=RECHAZADA motivo=aforo completo
+59;0;ENVIO;req=carga-2842bc4a59e3 resultado=RECHAZADA motivo=aforo completo
+60;0;ENVIO;req=carga-a7febacbbe1a resultado=RECHAZADA motivo=aforo completo
+61;0;ENVIO;req=carga-bb6803d9688a resultado=RECHAZADA motivo=aforo completo
+62;0;RECEPCION;req=carga-b18facf1bb76 tipo=ESTADO puerta=1
+63;0;ENVIO;req=carga-b18facf1bb76 resultado=PERMITIDA motivo=estado disponible
+64;0;PUERTA_CAIDA;puerta=1
+65;0;PUERTA_CAIDA;puerta=2
+66;0;PUERTA_CAIDA;puerta=3

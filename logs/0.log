@@ -1,0 +1,319 @@
+2;0;RECEPCION;req=carga-6c2e50aa6b75 tipo=ENTRAR puerta=1
+3;0;ENVIO;req=carga-6c2e50aa6b75 resultado=PERMITIDA motivo=entrada aceptada
+4;0;RECEPCION;req=carga-1e2f21115aa5 tipo=ENTRAR puerta=3
+5;0;ENVIO;req=carga-1e2f21115aa5 resultado=PERMITIDA motivo=entrada aceptada
+6;0;RECEPCION;req=carga-6d982e22e57f tipo=ENTRAR puerta=3
+7;0;RECEPCION;req=carga-80b8e52772a3 tipo=ENTRAR puerta=1
+8;0;RECEPCION;req=carga-d9f7d3b10797 tipo=ENTRAR puerta=3
+9;0;RECEPCION;req=carga-c5d8a635a1a1 tipo=ENTRAR puerta=2
+10;0;ENVIO;req=carga-6d982e22e57f resultado=PERMITIDA motivo=entrada aceptada
+11;0;RECEPCION;req=carga-67233884df92 tipo=ENTRAR puerta=2
+12;0;RECEPCION;req=carga-22d090dc3adf tipo=ENTRAR puerta=1
+13;0;RECEPCION;req=carga-6197a5c5b665 tipo=ENTRAR puerta=3
+14;0;ENVIO;req=carga-80b8e52772a3 resultado=PERMITIDA motivo=entrada aceptada
+15;0;RECEPCION;req=carga-d4c527e9fe94 tipo=ENTRAR puerta=3
+16;0;ENVIO;req=carga-d9f7d3b10797 resultado=PERMITIDA motivo=entrada aceptada
+17;0;RECEPCION;req=carga-d0d91a161307 tipo=ENTRAR puerta=2
+18;0;ENVIO;req=carga-c5d8a635a1a1 resultado=PERMITIDA motivo=entrada aceptada
+19;0;RECEPCION;req=carga-67ef9fa1f26a tipo=ENTRAR puerta=2
+20;0;RECEPCION;req=carga-1dfb57b9d15c tipo=ENTRAR puerta=2
+21;0;ENVIO;req=carga-67233884df92 resultado=PERMITIDA motivo=entrada aceptada
+22;0;RECEPCION;req=carga-34a0bbe9aaa3 tipo=ENTRAR puerta=1
+23;0;ENVIO;req=carga-22d090dc3adf resultado=PERMITIDA motivo=entrada aceptada
+24;0;RECEPCION;req=carga-1262e518b53f tipo=ENTRAR puerta=3
+25;0;RECEPCION;req=carga-af9d120ff8b8 tipo=ENTRAR puerta=1
+26;0;ENVIO;req=carga-6197a5c5b665 resultado=PERMITIDA motivo=entrada aceptada
+27;0;RECEPCION;req=carga-057e7c60e12f tipo=ENTRAR puerta=3
+28;0;RECEPCION;req=carga-ee2219a626ba tipo=ENTRAR puerta=1
+29;0;ENVIO;req=carga-d4c527e9fe94 resultado=PERMITIDA motivo=entrada aceptada
+30;0;RECEPCION;req=carga-068fccc28f52 tipo=ENTRAR puerta=1
+31;0;RECEPCION;req=carga-dc716da1860e tipo=ENTRAR puerta=2
+32;0;RECEPCION;req=carga-33aa37e63703 tipo=ENTRAR puerta=1
+33;0;ENVIO;req=carga-d0d91a161307 resultado=RECHAZADA motivo=aforo completo
+34;0;RECEPCION;req=carga-2342bf3db0b3 tipo=ENTRAR puerta=1
+35;0;RECEPCION;req=carga-da1237322184 tipo=ENTRAR puerta=1
+36;0;RECEPCION;req=carga-756f23ae3f5b tipo=ENTRAR puerta=2
+37;0;ENVIO;req=carga-67ef9fa1f26a resultado=RECHAZADA motivo=aforo completo
+38;0;RECEPCION;req=carga-d4067f5f9b00 tipo=ENTRAR puerta=2
+39;0;RECEPCION;req=carga-b19fd4c73669 tipo=ENTRAR puerta=3
+40;0;ENVIO;req=carga-1dfb57b9d15c resultado=RECHAZADA motivo=aforo completo
+41;0;RECEPCION;req=carga-62e12b2e4d22 tipo=ENTRAR puerta=2
+42;0;RECEPCION;req=carga-2842bc4a59e3 tipo=ENTRAR puerta=2
+43;0;ENVIO;req=carga-34a0bbe9aaa3 resultado=RECHAZADA motivo=aforo completo
+44;0;RECEPCION;req=carga-a7febacbbe1a tipo=ENTRAR puerta=3
+45;0;RECEPCION;req=carga-bb6803d9688a tipo=ENTRAR puerta=3
+46;0;ENVIO;req=carga-1262e518b53f resultado=RECHAZADA motivo=aforo completo
+47;0;ENVIO;req=carga-af9d120ff8b8 resultado=RECHAZADA motivo=aforo completo
+48;0;ENVIO;req=carga-057e7c60e12f resultado=RECHAZADA motivo=aforo completo
+49;0;ENVIO;req=carga-ee2219a626ba resultado=RECHAZADA motivo=aforo completo
+50;0;ENVIO;req=carga-068fccc28f52 resultado=RECHAZADA motivo=aforo completo
+51;0;ENVIO;req=carga-dc716da1860e resultado=RECHAZADA motivo=aforo completo
+52;0;ENVIO;req=carga-33aa37e63703 resultado=RECHAZADA motivo=aforo completo
+53;0;ENVIO;req=carga-2342bf3db0b3 resultado=RECHAZADA motivo=aforo completo
+54;0;ENVIO;req=carga-da1237322184 resultado=RECHAZADA motivo=aforo completo
+55;0;ENVIO;req=carga-756f23ae3f5b resultado=RECHAZADA motivo=aforo completo
+56;0;ENVIO;req=carga-d4067f5f9b00 resultado=RECHAZADA motivo=aforo completo
+57;0;ENVIO;req=carga-b19fd4c73669 resultado=RECHAZADA motivo=aforo completo
+58;0;ENVIO;req=carga-62e12b2e4d22 resultado=RECHAZADA motivo=aforo completo
+59;0;ENVIO;req=carga-2842bc4a59e3 resultado=RECHAZADA motivo=aforo completo
+60;0;ENVIO;req=carga-a7febacbbe1a resultado=RECHAZADA motivo=aforo completo
+61;0;ENVIO;req=carga-bb6803d9688a resultado=RECHAZADA motivo=aforo completo
+62;0;RECEPCION;req=carga-b18facf1bb76 tipo=ESTADO puerta=1
+63;0;ENVIO;req=carga-b18facf1bb76 resultado=PERMITIDA motivo=estado disponible
+64;0;PUERTA_CAIDA;puerta=1
+65;0;PUERTA_CAIDA;puerta=2
+66;0;PUERTA_CAIDA;puerta=3
+67;0;PUERTA_CAIDA;puerta=1
+68;0;PUERTA_CAIDA;puerta=2
+69;0;PUERTA_CAIDA;puerta=3
+70;0;RECEPCION;req=0dd5beda1be1 tipo=LATIDO puerta=1
+71;0;PUERTA_ACTIVA;puerta=1
+72;0;ENVIO;req=0dd5beda1be1 resultado=PERMITIDA motivo=latido recibido
+75;0;RECEPCION;req=6e5896030f2b tipo=LATIDO puerta=1
+76;0;ENVIO;req=6e5896030f2b resultado=PERMITIDA motivo=latido recibido
+77;0;RECEPCION;req=e3ba435767d7 tipo=LATIDO puerta=2
+78;0;PUERTA_ACTIVA;puerta=2
+79;0;ENVIO;req=e3ba435767d7 resultado=PERMITIDA motivo=latido recibido
+80;0;RECEPCION;req=b58fb7eb8aa4 tipo=LATIDO puerta=1
+81;0;ENVIO;req=b58fb7eb8aa4 resultado=PERMITIDA motivo=latido recibido
+82;0;RECEPCION;req=05ecce1dc3b6 tipo=LATIDO puerta=2
+83;0;ENVIO;req=05ecce1dc3b6 resultado=PERMITIDA motivo=latido recibido
+84;0;RECEPCION;req=543071f465ed tipo=LATIDO puerta=1
+85;0;ENVIO;req=543071f465ed resultado=PERMITIDA motivo=latido recibido
+86;0;RECEPCION;req=9668e5aefd47 tipo=LATIDO puerta=2
+87;0;ENVIO;req=9668e5aefd47 resultado=PERMITIDA motivo=latido recibido
+88;0;RECEPCION;req=53aecd17ed0d tipo=LATIDO puerta=1
+89;0;ENVIO;req=53aecd17ed0d resultado=PERMITIDA motivo=latido recibido
+90;0;RECEPCION;req=8615215db5dc tipo=LATIDO puerta=2
+91;0;ENVIO;req=8615215db5dc resultado=PERMITIDA motivo=latido recibido
+92;0;RECEPCION;req=982368e27523 tipo=LATIDO puerta=1
+93;0;ENVIO;req=982368e27523 resultado=PERMITIDA motivo=latido recibido
+94;0;RECEPCION;req=5ee1dfcff375 tipo=LATIDO puerta=2
+95;0;ENVIO;req=5ee1dfcff375 resultado=PERMITIDA motivo=latido recibido
+96;0;RECEPCION;req=2e1c36e0d025 tipo=LATIDO puerta=1
+97;0;ENVIO;req=2e1c36e0d025 resultado=PERMITIDA motivo=latido recibido
+98;0;RECEPCION;req=96cd722b0ffc tipo=LATIDO puerta=2
+99;0;ENVIO;req=96cd722b0ffc resultado=PERMITIDA motivo=latido recibido
+100;0;RECEPCION;req=fb1c401dccd5 tipo=LATIDO puerta=1
+101;0;ENVIO;req=fb1c401dccd5 resultado=PERMITIDA motivo=latido recibido
+102;0;RECEPCION;req=55dcd4db58df tipo=LATIDO puerta=2
+103;0;ENVIO;req=55dcd4db58df resultado=PERMITIDA motivo=latido recibido
+104;0;RECEPCION;req=4b7e396e5cce tipo=LATIDO puerta=1
+105;0;ENVIO;req=4b7e396e5cce resultado=PERMITIDA motivo=latido recibido
+106;0;RECEPCION;req=d0e5a6a56a03 tipo=LATIDO puerta=3
+107;0;PUERTA_ACTIVA;puerta=3
+108;0;ENVIO;req=d0e5a6a56a03 resultado=PERMITIDA motivo=latido recibido
+109;0;RECEPCION;req=eef4c943e409 tipo=LATIDO puerta=2
+110;0;ENVIO;req=eef4c943e409 resultado=PERMITIDA motivo=latido recibido
+111;0;RECEPCION;req=9fecdcf9f675 tipo=LATIDO puerta=1
+112;0;ENVIO;req=9fecdcf9f675 resultado=PERMITIDA motivo=latido recibido
+113;0;RECEPCION;req=c43b82a3404c tipo=LATIDO puerta=3
+114;0;ENVIO;req=c43b82a3404c resultado=PERMITIDA motivo=latido recibido
+115;0;RECEPCION;req=f194f65b8882 tipo=LATIDO puerta=2
+116;0;ENVIO;req=f194f65b8882 resultado=PERMITIDA motivo=latido recibido
+117;0;RECEPCION;req=865518f41105 tipo=LATIDO puerta=1
+118;0;ENVIO;req=865518f41105 resultado=PERMITIDA motivo=latido recibido
+119;0;RECEPCION;req=bb72526952e4 tipo=LATIDO puerta=3
+120;0;ENVIO;req=bb72526952e4 resultado=PERMITIDA motivo=latido recibido
+121;0;RECEPCION;req=edabd012241d tipo=LATIDO puerta=2
+122;0;ENVIO;req=edabd012241d resultado=PERMITIDA motivo=latido recibido
+123;0;RECEPCION;req=8f3039d6f64e tipo=LATIDO puerta=1
+124;0;ENVIO;req=8f3039d6f64e resultado=PERMITIDA motivo=latido recibido
+125;0;RECEPCION;req=d025c0a68384 tipo=LATIDO puerta=3
+126;0;ENVIO;req=d025c0a68384 resultado=PERMITIDA motivo=latido recibido
+127;0;RECEPCION;req=e0d988043b67 tipo=LATIDO puerta=2
+128;0;ENVIO;req=e0d988043b67 resultado=PERMITIDA motivo=latido recibido
+129;0;RECEPCION;req=b9cfa5b55dce tipo=LATIDO puerta=1
+130;0;ENVIO;req=b9cfa5b55dce resultado=PERMITIDA motivo=latido recibido
+131;0;RECEPCION;req=f0e28b69491a tipo=LATIDO puerta=3
+132;0;ENVIO;req=f0e28b69491a resultado=PERMITIDA motivo=latido recibido
+133;0;RECEPCION;req=f82d12be1954 tipo=LATIDO puerta=2
+134;0;ENVIO;req=f82d12be1954 resultado=PERMITIDA motivo=latido recibido
+135;0;RECEPCION;req=73aae1808f60 tipo=LATIDO puerta=1
+136;0;ENVIO;req=73aae1808f60 resultado=PERMITIDA motivo=latido recibido
+137;0;RECEPCION;req=6af102a52558 tipo=LATIDO puerta=3
+138;0;ENVIO;req=6af102a52558 resultado=PERMITIDA motivo=latido recibido
+139;0;RECEPCION;req=78b81b999fa6 tipo=LATIDO puerta=2
+140;0;ENVIO;req=78b81b999fa6 resultado=PERMITIDA motivo=latido recibido
+141;0;RECEPCION;req=7dcc4ab800f9 tipo=LATIDO puerta=1
+142;0;ENVIO;req=7dcc4ab800f9 resultado=PERMITIDA motivo=latido recibido
+143;0;RECEPCION;req=b20e28723027 tipo=LATIDO puerta=3
+144;0;ENVIO;req=b20e28723027 resultado=PERMITIDA motivo=latido recibido
+145;0;RECEPCION;req=aec7e9bc2c43 tipo=LATIDO puerta=2
+146;0;ENVIO;req=aec7e9bc2c43 resultado=PERMITIDA motivo=latido recibido
+147;0;RECEPCION;req=09a331cb0de5 tipo=LATIDO puerta=1
+148;0;ENVIO;req=09a331cb0de5 resultado=PERMITIDA motivo=latido recibido
+149;0;RECEPCION;req=b9f5363ae8af tipo=LATIDO puerta=3
+150;0;ENVIO;req=b9f5363ae8af resultado=PERMITIDA motivo=latido recibido
+151;0;RECEPCION;req=1f105f848d67 tipo=LATIDO puerta=2
+152;0;ENVIO;req=1f105f848d67 resultado=PERMITIDA motivo=latido recibido
+153;0;RECEPCION;req=d86ddf805ed3 tipo=LATIDO puerta=1
+154;0;ENVIO;req=d86ddf805ed3 resultado=PERMITIDA motivo=latido recibido
+155;0;RECEPCION;req=8f9bedf0d225 tipo=LATIDO puerta=3
+156;0;ENVIO;req=8f9bedf0d225 resultado=PERMITIDA motivo=latido recibido
+157;0;RECEPCION;req=e172f2b79e05 tipo=LATIDO puerta=2
+158;0;ENVIO;req=e172f2b79e05 resultado=PERMITIDA motivo=latido recibido
+159;0;RECEPCION;req=70b4f24216cb tipo=LATIDO puerta=1
+160;0;ENVIO;req=70b4f24216cb resultado=PERMITIDA motivo=latido recibido
+161;0;RECEPCION;req=6e943d281569 tipo=LATIDO puerta=3
+162;0;ENVIO;req=6e943d281569 resultado=PERMITIDA motivo=latido recibido
+163;0;RECEPCION;req=6abbce55d7dc tipo=LATIDO puerta=2
+164;0;ENVIO;req=6abbce55d7dc resultado=PERMITIDA motivo=latido recibido
+165;0;RECEPCION;req=30fdd517a178 tipo=LATIDO puerta=1
+166;0;ENVIO;req=30fdd517a178 resultado=PERMITIDA motivo=latido recibido
+167;0;RECEPCION;req=8ba4e3f0311c tipo=LATIDO puerta=3
+168;0;ENVIO;req=8ba4e3f0311c resultado=PERMITIDA motivo=latido recibido
+169;0;RECEPCION;req=2264171748a5 tipo=LATIDO puerta=2
+170;0;ENVIO;req=2264171748a5 resultado=PERMITIDA motivo=latido recibido
+171;0;RECEPCION;req=8aa65587d93f tipo=LATIDO puerta=1
+172;0;ENVIO;req=8aa65587d93f resultado=PERMITIDA motivo=latido recibido
+173;0;RECEPCION;req=34f53b256095 tipo=LATIDO puerta=3
+174;0;ENVIO;req=34f53b256095 resultado=PERMITIDA motivo=latido recibido
+175;0;RECEPCION;req=95f80e1ab38e tipo=LATIDO puerta=2
+176;0;ENVIO;req=95f80e1ab38e resultado=PERMITIDA motivo=latido recibido
+177;0;RECEPCION;req=365282d98d04 tipo=LATIDO puerta=1
+178;0;ENVIO;req=365282d98d04 resultado=PERMITIDA motivo=latido recibido
+179;0;RECEPCION;req=b45a37bd0536 tipo=LATIDO puerta=3
+180;0;ENVIO;req=b45a37bd0536 resultado=PERMITIDA motivo=latido recibido
+181;0;RECEPCION;req=ae31568f15d6 tipo=LATIDO puerta=2
+182;0;ENVIO;req=ae31568f15d6 resultado=PERMITIDA motivo=latido recibido
+183;0;RECEPCION;req=7bf6c621db20 tipo=LATIDO puerta=1
+184;0;ENVIO;req=7bf6c621db20 resultado=PERMITIDA motivo=latido recibido
+185;0;RECEPCION;req=4cf16f1674ab tipo=LATIDO puerta=3
+186;0;ENVIO;req=4cf16f1674ab resultado=PERMITIDA motivo=latido recibido
+187;0;RECEPCION;req=5cd25bee66bc tipo=LATIDO puerta=2
+188;0;ENVIO;req=5cd25bee66bc resultado=PERMITIDA motivo=latido recibido
+189;0;RECEPCION;req=575650a332c9 tipo=LATIDO puerta=1
+190;0;ENVIO;req=575650a332c9 resultado=PERMITIDA motivo=latido recibido
+191;0;RECEPCION;req=8d11190b54a4 tipo=LATIDO puerta=3
+192;0;ENVIO;req=8d11190b54a4 resultado=PERMITIDA motivo=latido recibido
+193;0;RECEPCION;req=86192fa7eb6a tipo=LATIDO puerta=2
+194;0;ENVIO;req=86192fa7eb6a resultado=PERMITIDA motivo=latido recibido
+195;0;RECEPCION;req=93306951a6de tipo=LATIDO puerta=1
+196;0;ENVIO;req=93306951a6de resultado=PERMITIDA motivo=latido recibido
+197;0;RECEPCION;req=f479320b10ca tipo=LATIDO puerta=3
+198;0;ENVIO;req=f479320b10ca resultado=PERMITIDA motivo=latido recibido
+199;0;RECEPCION;req=6e3ce74ba95d tipo=LATIDO puerta=2
+200;0;ENVIO;req=6e3ce74ba95d resultado=PERMITIDA motivo=latido recibido
+201;0;RECEPCION;req=69f1f8254e6c tipo=LATIDO puerta=1
+202;0;ENVIO;req=69f1f8254e6c resultado=PERMITIDA motivo=latido recibido
+203;0;RECEPCION;req=d7575463b060 tipo=LATIDO puerta=3
+204;0;ENVIO;req=d7575463b060 resultado=PERMITIDA motivo=latido recibido
+205;0;RECEPCION;req=df633038c630 tipo=LATIDO puerta=2
+206;0;ENVIO;req=df633038c630 resultado=PERMITIDA motivo=latido recibido
+207;0;RECEPCION;req=e50dc6fd4567 tipo=LATIDO puerta=1
+208;0;ENVIO;req=e50dc6fd4567 resultado=PERMITIDA motivo=latido recibido
+209;0;RECEPCION;req=efcfe7fe3eb9 tipo=LATIDO puerta=3
+210;0;ENVIO;req=efcfe7fe3eb9 resultado=PERMITIDA motivo=latido recibido
+211;0;RECEPCION;req=3a9217766fe9 tipo=LATIDO puerta=2
+212;0;ENVIO;req=3a9217766fe9 resultado=PERMITIDA motivo=latido recibido
+213;0;RECEPCION;req=f360401f14b2 tipo=LATIDO puerta=1
+214;0;ENVIO;req=f360401f14b2 resultado=PERMITIDA motivo=latido recibido
+215;0;RECEPCION;req=d0915dca4839 tipo=LATIDO puerta=3
+216;0;ENVIO;req=d0915dca4839 resultado=PERMITIDA motivo=latido recibido
+217;0;RECEPCION;req=df9985734a82 tipo=LATIDO puerta=2
+218;0;ENVIO;req=df9985734a82 resultado=PERMITIDA motivo=latido recibido
+219;0;RECEPCION;req=ddc74cdcf5c6 tipo=LATIDO puerta=1
+220;0;ENVIO;req=ddc74cdcf5c6 resultado=PERMITIDA motivo=latido recibido
+221;0;RECEPCION;req=dc50a59d0dd9 tipo=LATIDO puerta=3
+222;0;ENVIO;req=dc50a59d0dd9 resultado=PERMITIDA motivo=latido recibido
+223;0;RECEPCION;req=11b18c9c2d97 tipo=LATIDO puerta=2
+224;0;ENVIO;req=11b18c9c2d97 resultado=PERMITIDA motivo=latido recibido
+225;0;RECEPCION;req=b2586cae28f5 tipo=LATIDO puerta=1
+226;0;ENVIO;req=b2586cae28f5 resultado=PERMITIDA motivo=latido recibido
+227;0;RECEPCION;req=87ca77c015e2 tipo=LATIDO puerta=3
+228;0;ENVIO;req=87ca77c015e2 resultado=PERMITIDA motivo=latido recibido
+229;0;RECEPCION;req=0045dfe59411 tipo=LATIDO puerta=2
+230;0;ENVIO;req=0045dfe59411 resultado=PERMITIDA motivo=latido recibido
+231;0;RECEPCION;req=03d66b4b8891 tipo=LATIDO puerta=1
+232;0;ENVIO;req=03d66b4b8891 resultado=PERMITIDA motivo=latido recibido
+233;0;RECEPCION;req=14e7d3f313a8 tipo=LATIDO puerta=3
+234;0;ENVIO;req=14e7d3f313a8 resultado=PERMITIDA motivo=latido recibido
+235;0;RECEPCION;req=d040894cf39c tipo=LATIDO puerta=2
+236;0;ENVIO;req=d040894cf39c resultado=PERMITIDA motivo=latido recibido
+237;0;RECEPCION;req=5a4a59b78742 tipo=LATIDO puerta=1
+238;0;ENVIO;req=5a4a59b78742 resultado=PERMITIDA motivo=latido recibido
+239;0;RECEPCION;req=9f8aff782b97 tipo=LATIDO puerta=3
+240;0;ENVIO;req=9f8aff782b97 resultado=PERMITIDA motivo=latido recibido
+241;0;RECEPCION;req=80d0cb069470 tipo=LATIDO puerta=2
+242;0;ENVIO;req=80d0cb069470 resultado=PERMITIDA motivo=latido recibido
+243;0;RECEPCION;req=ff847f50b87b tipo=LATIDO puerta=1
+244;0;ENVIO;req=ff847f50b87b resultado=PERMITIDA motivo=latido recibido
+245;0;RECEPCION;req=d9cfb2c9eaab tipo=LATIDO puerta=3
+246;0;ENVIO;req=d9cfb2c9eaab resultado=PERMITIDA motivo=latido recibido
+247;0;RECEPCION;req=bf23a1fd3cbd tipo=LATIDO puerta=2
+248;0;ENVIO;req=bf23a1fd3cbd resultado=PERMITIDA motivo=latido recibido
+249;0;RECEPCION;req=a60677f574d2 tipo=LATIDO puerta=1
+250;0;ENVIO;req=a60677f574d2 resultado=PERMITIDA motivo=latido recibido
+251;0;RECEPCION;req=e3de7cd078d6 tipo=LATIDO puerta=3
+252;0;ENVIO;req=e3de7cd078d6 resultado=PERMITIDA motivo=latido recibido
+253;0;RECEPCION;req=ae30ed4cf3dc tipo=LATIDO puerta=2
+254;0;ENVIO;req=ae30ed4cf3dc resultado=PERMITIDA motivo=latido recibido
+255;0;RECEPCION;req=1e1808afeb7f tipo=LATIDO puerta=1
+256;0;ENVIO;req=1e1808afeb7f resultado=PERMITIDA motivo=latido recibido
+257;0;RECEPCION;req=317ec60259c3 tipo=LATIDO puerta=3
+258;0;ENVIO;req=317ec60259c3 resultado=PERMITIDA motivo=latido recibido
+259;0;RECEPCION;req=5588f6df91f0 tipo=LATIDO puerta=2
+260;0;ENVIO;req=5588f6df91f0 resultado=PERMITIDA motivo=latido recibido
+261;0;RECEPCION;req=90852d2c5521 tipo=LATIDO puerta=1
+262;0;ENVIO;req=90852d2c5521 resultado=PERMITIDA motivo=latido recibido
+263;0;RECEPCION;req=0e4e2536c898 tipo=LATIDO puerta=3
+264;0;ENVIO;req=0e4e2536c898 resultado=PERMITIDA motivo=latido recibido
+265;0;RECEPCION;req=fe76964ba112 tipo=LATIDO puerta=2
+266;0;ENVIO;req=fe76964ba112 resultado=PERMITIDA motivo=latido recibido
+267;0;RECEPCION;req=b06d6dd70c2e tipo=LATIDO puerta=1
+268;0;ENVIO;req=b06d6dd70c2e resultado=PERMITIDA motivo=latido recibido
+269;0;RECEPCION;req=96e7377a4752 tipo=LATIDO puerta=3
+270;0;ENVIO;req=96e7377a4752 resultado=PERMITIDA motivo=latido recibido
+271;0;RECEPCION;req=1e22065addee tipo=LATIDO puerta=2
+272;0;ENVIO;req=1e22065addee resultado=PERMITIDA motivo=latido recibido
+273;0;RECEPCION;req=fbfedd50e76d tipo=LATIDO puerta=1
+274;0;ENVIO;req=fbfedd50e76d resultado=PERMITIDA motivo=latido recibido
+275;0;RECEPCION;req=819b58bfa44a tipo=LATIDO puerta=3
+276;0;ENVIO;req=819b58bfa44a resultado=PERMITIDA motivo=latido recibido
+277;0;RECEPCION;req=812b6eb54dee tipo=LATIDO puerta=2
+278;0;ENVIO;req=812b6eb54dee resultado=PERMITIDA motivo=latido recibido
+279;0;RECEPCION;req=9dfb930572ed tipo=LATIDO puerta=1
+280;0;ENVIO;req=9dfb930572ed resultado=PERMITIDA motivo=latido recibido
+281;0;RECEPCION;req=4847a1c169d4 tipo=LATIDO puerta=3
+282;0;ENVIO;req=4847a1c169d4 resultado=PERMITIDA motivo=latido recibido
+283;0;RECEPCION;req=3d7bfcdb9f8c tipo=LATIDO puerta=2
+284;0;ENVIO;req=3d7bfcdb9f8c resultado=PERMITIDA motivo=latido recibido
+285;0;RECEPCION;req=74d55c3a5e57 tipo=LATIDO puerta=1
+286;0;ENVIO;req=74d55c3a5e57 resultado=PERMITIDA motivo=latido recibido
+287;0;RECEPCION;req=5629b9a8afd2 tipo=LATIDO puerta=3
+288;0;ENVIO;req=5629b9a8afd2 resultado=PERMITIDA motivo=latido recibido
+289;0;RECEPCION;req=be75fca8db52 tipo=LATIDO puerta=2
+290;0;ENVIO;req=be75fca8db52 resultado=PERMITIDA motivo=latido recibido
+291;0;RECEPCION;req=b86f91a1ec51 tipo=LATIDO puerta=1
+292;0;ENVIO;req=b86f91a1ec51 resultado=PERMITIDA motivo=latido recibido
+293;0;RECEPCION;req=01cb73b7e889 tipo=LATIDO puerta=3
+294;0;ENVIO;req=01cb73b7e889 resultado=PERMITIDA motivo=latido recibido
+295;0;RECEPCION;req=f2b3cd509828 tipo=LATIDO puerta=2
+296;0;ENVIO;req=f2b3cd509828 resultado=PERMITIDA motivo=latido recibido
+297;0;RECEPCION;req=310af685f6fa tipo=LATIDO puerta=1
+298;0;ENVIO;req=310af685f6fa resultado=PERMITIDA motivo=latido recibido
+299;0;RECEPCION;req=367f5267b58b tipo=LATIDO puerta=3
+300;0;ENVIO;req=367f5267b58b resultado=PERMITIDA motivo=latido recibido
+301;0;RECEPCION;req=2ba8583c20be tipo=LATIDO puerta=2
+302;0;ENVIO;req=2ba8583c20be resultado=PERMITIDA motivo=latido recibido
+303;0;RECEPCION;req=2200797e36c8 tipo=LATIDO puerta=1
+304;0;ENVIO;req=2200797e36c8 resultado=PERMITIDA motivo=latido recibido
+305;0;RECEPCION;req=be2de30cd2c1 tipo=LATIDO puerta=3
+306;0;ENVIO;req=be2de30cd2c1 resultado=PERMITIDA motivo=latido recibido
+307;0;RECEPCION;req=9c7e01e71677 tipo=LATIDO puerta=2
+308;0;ENVIO;req=9c7e01e71677 resultado=PERMITIDA motivo=latido recibido
+309;0;RECEPCION;req=e3e223678947 tipo=LATIDO puerta=1
+310;0;ENVIO;req=e3e223678947 resultado=PERMITIDA motivo=latido recibido
+311;0;RECEPCION;req=606704d9a55d tipo=LATIDO puerta=3
+312;0;ENVIO;req=606704d9a55d resultado=PERMITIDA motivo=latido recibido
+313;0;RECEPCION;req=e501cc1b4513 tipo=LATIDO puerta=2
+314;0;ENVIO;req=e501cc1b4513 resultado=PERMITIDA motivo=latido recibido
+315;0;RECEPCION;req=6e0f136cc4b4 tipo=LATIDO puerta=1
+316;0;ENVIO;req=6e0f136cc4b4 resultado=PERMITIDA motivo=latido recibido
+317;0;RECEPCION;req=b150268d44b6 tipo=LATIDO puerta=3
+318;0;ENVIO;req=b150268d44b6 resultado=PERMITIDA motivo=latido recibido
+319;0;RECEPCION;req=e93467011015 tipo=LATIDO puerta=2
+320;0;ENVIO;req=e93467011015 resultado=PERMITIDA motivo=latido recibido
+321;0;RECEPCION;req=c8d9d7116718 tipo=LATIDO puerta=1
+322;0;ENVIO;req=c8d9d7116718 resultado=PERMITIDA motivo=latido recibido
